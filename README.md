@@ -1,4 +1,4 @@
-# Contact Management System GUI
+# Contact Management System
 Description:
 This project is a Contact Management System with a graphical user interface (GUI) built using Python's tkinter library. The application allows users to add, view, edit, and delete contacts. The contacts are stored in a text file and persist between sessions.
 
